@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Portable Optical Automatic Coagulometer</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <header>
+    <h1>Portable Optical Automatic Coagulometer</h1>
+    <nav>
+      <a href="#features">Features</a>
+      <a href="#specs">Specifications</a>
+      <a href="#contact">Contact</a>
+    </nav>
+  </header>
+
+  <main>
+    <section id="about">
+      <h2>About</h2>
+      <p>
+        This device provides automated, accurate blood coagulation testing using advanced optical detection, perfect for clinics, labs, or point-of-care applications.
+      </p>
+    </section>
+
+    <section id="features">
+      <h2>Key Features</h2>
+      <ul>
+        <li>Photo-optical detection (LED, 470 nm)</li>
+        <li>1–4 independent test channels</li>
+        <li>Touchscreen interface</li>
+        <li>Compact and portable (2–6 kg)</li>
+        <li>LIS/HIS connectivity and built-in thermal printer</li>
+      </ul>
+    </section>
+
+    <section id="specs">
+      <h2>Basic Specifications</h2>
+      <table>
+        <tr><th>Parameter</th><th>Value</th></tr>
+        <tr><td>Detection</td><td>Photo-optical (LED)</td></tr>
+        <tr><td>Channels</td><td>1–4</td></tr>
+        <tr><td>Display</td><td>5"–7" touchscreen</td></tr>
+        <tr><td>Weight</td><td>2–6 kg</td></tr>
+        <tr><td>Power</td><td>100–240V AC</td></tr>
+        <tr><td>Temperature Control</td><td>37 ± 0.2°C</td></tr>
+      </table>
+    </section>
+
+    <section id="contact">
+      <h2>Contact</h2>
+      <p>
+        For inquiries or more information, contact <a href="mailto:info@coagulometer.com">info@coagulometer.com</a>
+      </p>
+    </section>
+  </main>
+
+  <footer>
+    <p>© 2025 Portable Coagulometer Project. Hosted with GitHub Pages.</p>
+  </footer>
+</body>
+</html>
